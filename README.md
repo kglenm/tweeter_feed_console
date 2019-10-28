@@ -7,6 +7,17 @@
 
 To run this application, navigate to and run the main class in [src/main/com/feed/Main.java](src/main/com/feed/Main.java)
 
+###Sample output after running
+
+    Alan
+    	@Alan: If you have a procedure with 10 parameters, you probably missed some.
+    	@Alan: Random numbers should not be generated with a method chosen at random.
+    Martin
+    Ward
+    	@Alan: If you have a procedure with 10 parameters, you probably missed some.
+    	@Ward: There are only two hard things in Computer Science: cache invalidation, naming things and off-by-1 errors.
+    	@Alan: Random numbers should not be generated with a method chosen at random.
+
 ## Application Resources
 
 Application resource files are found in [src/main/resources](src/main/resources)

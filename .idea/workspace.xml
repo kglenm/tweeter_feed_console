@@ -23,15 +23,20 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectCodeStyleSettingsMigration">
     <option name="version" value="1" />
   </component>
   <component name="ProjectId" id="1SkhbesASJ0AyhjmZwz1fBdqRNy" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="PropertiesComponent">
     <property name="Downloaded.Files.Path.Enabled" value="true" />
     <property name="Repository.Attach.Annotations" value="false" />
     <property name="Repository.Attach.JavaDocs" value="false" />
     <property name="Repository.Attach.Sources" value="false" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
@@ -76,7 +81,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.main.com.feed.services in twitter_feed_console">
+  <component name="RunManager" selected="Application.Main">
     <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="main.com.feed.Main" />
       <module name="twitter_feed_console" />
@@ -161,8 +166,8 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.main.com.feed.services in twitter_feed_console" />
         <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.main.com.feed.services in twitter_feed_console" />
         <item itemvalue="JUnit.UserServiceTest.testFindingIfUserDoesntExists" />
         <item itemvalue="JUnit.UserServiceTest.testFindingIfUserExists" />
         <item itemvalue="JUnit.UserServiceTest.testGetUserSet" />
@@ -180,12 +185,23 @@
       <option name="presentableId" value="Default" />
       <updated>1572113573418</updated>
       <workItem from="1572113577824" duration="25601000" />
-      <workItem from="1572201315720" duration="18677000" />
+      <workItem from="1572201315720" duration="19280000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/twitter_feed_console$UserServiceTest_testSortingOfUserSet.ic" NAME="UserServiceTest.testSortingOfUserSet Coverage Results" MODIFIED="1572214956320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
