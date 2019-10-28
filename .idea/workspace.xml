@@ -1,0 +1,210 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="f7287801-340d-4102-a6cc-ac7f527ac457" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="CoverageViewManager">
+    <option name="myElementSize" value="294" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="JUnit5 Test Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SkhbesASJ0AyhjmZwz1fBdqRNy" />
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="true" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit5" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="main.com.feed.services" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\kmfubha\Documents\Local Backup\twitter_feed_console\src\resources" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\kmfubha\Documents\Local Backup\twitter_feed_console" />
+      <recent name="C:\Users\kmfubha\Documents\Local Backup\twitter_feed_console\src\main\resources" />
+      <recent name="C:\Users\kmfubha\Documents\Local Backup\twitter_feed_console\src\test\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.main.com.feed.services in twitter_feed_console">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="main.com.feed.Main" />
+      <module name="twitter_feed_console" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.feed.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testFindingIfUserDoesntExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="twitter_feed_console" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.feed.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.com.feed.services" />
+      <option name="MAIN_CLASS_NAME" value="main.com.feed.services.UserServiceTest" />
+      <option name="METHOD_NAME" value="testFindingIfUserDoesntExists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testFindingIfUserExists" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="twitter_feed_console" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.feed.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.com.feed.services" />
+      <option name="MAIN_CLASS_NAME" value="main.com.feed.services.UserServiceTest" />
+      <option name="METHOD_NAME" value="testFindingIfUserExists" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="UserServiceTest.testGetUserSet" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="twitter_feed_console" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.feed.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.com.feed.services" />
+      <option name="MAIN_CLASS_NAME" value="main.com.feed.services.UserServiceTest" />
+      <option name="METHOD_NAME" value="testGetUserSet" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="main.com.feed.services in twitter_feed_console" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="twitter_feed_console" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="main.com.feed.services.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="main.com.feed.services" />
+      <option name="TEST_OBJECT" value="package" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.UserServiceTest.testGetUserSet" />
+      <item itemvalue="JUnit.UserServiceTest.testFindingIfUserExists" />
+      <item itemvalue="JUnit.UserServiceTest.testFindingIfUserDoesntExists" />
+      <item itemvalue="Application.Main" />
+      <item itemvalue="JUnit.main.com.feed.services in twitter_feed_console" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.main.com.feed.services in twitter_feed_console" />
+        <item itemvalue="Application.Main" />
+        <item itemvalue="JUnit.UserServiceTest.testFindingIfUserDoesntExists" />
+        <item itemvalue="JUnit.UserServiceTest.testFindingIfUserExists" />
+        <item itemvalue="JUnit.UserServiceTest.testGetUserSet" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="f7287801-340d-4102-a6cc-ac7f527ac457" name="Default Changelist" comment="" />
+      <created>1572113573418</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1572113573418</updated>
+      <workItem from="1572113577824" duration="25601000" />
+      <workItem from="1572201315720" duration="18677000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/twitter_feed_console$UserServiceTest_testSortingOfUserSet.ic" NAME="UserServiceTest.testSortingOfUserSet Coverage Results" MODIFIED="1572214956320" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.com.feed.services.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/twitter_feed_console$UserServiceTest_testGetUserList.ic" NAME="UserServiceTest.testGetUserList Coverage Results" MODIFIED="1572213632005" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.com.feed.services.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/twitter_feed_console$Main.ic" NAME="Main Coverage Results" MODIFIED="1572213171161" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.com.feed.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/twitter_feed_console$main_com_feed_services_in_twitter_feed_console.ic" NAME="main.com.feed.services in twitter_feed_console Coverage Results" MODIFIED="1572249373562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.com.feed.services.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/twitter_feed_console$UserServiceTest.ic" NAME="UserServiceTest Coverage Results" MODIFIED="1572214980232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.com.feed.services.*</FILTER>
+    </SUITE>
+    <SUITE FILE_PATH="coverage/twitter_feed_console$TweetServiceTest_testNonExistentGetUserList.ic" NAME="TweetServiceTest.testNonExistentGetUserList Coverage Results" MODIFIED="1572210587779" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>main.com.feed.services.*</FILTER>
+    </SUITE>
+  </component>
+</project>
